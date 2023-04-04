@@ -1,1 +1,5 @@
 /*Estilos da pagina index.html*/
+
+.cover-container figure img {
+    width: 100%;
+}
