@@ -3,7 +3,15 @@
 header .logo-devaria {
     display: block;
     padding: 20px 25px;
+    width: 160px;
+    height: 32px;
     border-bottom: 1px solid #25cbd3;
+}
+
+header .logo-devaria img {
+    margin-right: 40px;
+    width: 155px;
+    height: 32px;
 }
 
 header nav ul {
